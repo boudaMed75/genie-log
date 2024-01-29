@@ -1,0 +1,54 @@
+
+[
+      {
+        "id": 1,
+        "nom": "Application de gestion de stock",
+        "src": "img/pro/team-01.jpg",
+        "type" : "app mobile"
+      },
+      {
+        "id": 2,
+        "nom": "Application de gestion de ferme",
+        "src": "img/pro/team-02.jpg",
+        "type" : " app desktop"
+      },
+      {
+        "id": 3,
+        "nom": "Altek",
+        "src": "img/pro/team-03.jpg",
+        "type" : "web"
+      },
+      {
+        "id": 4,
+        "nom": "app mobile",
+        "src": "img/pro/team-04.jpg",
+        "type" : "app web"
+      },
+      {
+        "id": 5,
+        "nom": "web site",
+        "src": "img/pro/team-05.png",
+        "type" : "web"
+      },
+      {
+        "id": 6,
+        "nom": "iso app",
+        "src": "img/pro/team-06.png",
+        "type" : "app mobile"
+      },
+
+      {
+        "id": 7,
+        "nom": "android app",
+        "src": "img/pro/team-07.jpg",
+        "type" : "app mobile"
+      },
+      {
+        "id": 8,
+        "nom": "php project",
+        "src": "img/pro/team-08.jpg",
+        "type" : "app mobile"
+      }
+    ]
+
+  
